@@ -1,0 +1,24 @@
+#wwdq{
+		width: 800px;
+		text-align:justify;
+		border:4px solid blue;
+		padding:5px;
+		border-radius: 10px;
+		box-shadow: 2px 2px 2px red;
+		margin: 40px 0 0 0;
+		font:normal bold small-caps 1.5em Arial;
+		line-height: 150%;
+		text-align:left;
+		text-indent: 1em;
+	}
+#my-image{
+	width: 150px;
+	height: 150px;
+	border:2px solid blue;
+	margin-top: 20px;
+	font-size: 16px
+
+}
+img{
+	border:1px solid red;
+}
